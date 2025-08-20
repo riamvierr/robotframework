@@ -1,0 +1,6 @@
+login:
+  valid_user: tomsmith 
+  invalid_user: invalid_user
+  valid_password: SuperSecretPassword!
+  invalid_password: invalid_password
+  
